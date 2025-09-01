@@ -27,7 +27,7 @@ The Power BI report consists of 5 interactive pages:
 # 5. Project Snapshots
 Page 1- https://github.com/soniasharma2905/OLA-dashboard/blob/main/page1.png
 Page 2- https://github.com/soniasharma2905/OLA-dashboard/blob/main/Page2.png
-Page 3-
+Page 3- https://github.com/soniasharma2905/OLA-dashboard/blob/main/Page3.png
 Page 4-
 Page 5-
 
