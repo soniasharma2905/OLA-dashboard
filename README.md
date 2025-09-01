@@ -25,7 +25,10 @@ The Power BI report consists of 5 interactive pages:
 - Understanding business KPIs for ride-sharing companies.
 
 # 5. Project Snapshots
-Page 1-
+Page 1- https://github.com/soniasharma2905/OLA-dashboard/blob/main/page1.png
 Page 2- https://github.com/soniasharma2905/OLA-dashboard/blob/main/Page2.png
+Page 3-
+Page 4-
+Page 5-
 
 
