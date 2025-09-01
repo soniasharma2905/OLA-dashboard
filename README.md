@@ -22,6 +22,10 @@ The Power BI report consists of 5 interactive pages:
 - Cleaning and preparing raw datasets in Excel. 
 - Creating calculated columns & measures with DAX.  
 - Designing interactive dashboards in Power BI.  
-- Understanding business KPIs for ride-sharing companies.  
+- Understanding business KPIs for ride-sharing companies.
+
+# 5. Project Snapshots
+Page 1-
+Page 2- https://github.com/soniasharma2905/OLA-dashboard/blob/main/Page2.png
 
 
